@@ -1,6 +1,7 @@
 # JordanShoes
 
 ## 📃 Sobre
+<a href="https://maytearaujo.github.io/jordan-shoes/">Jordan Shoes</a>
 
 ## Aplicação
 Jordan Shoes
@@ -15,7 +16,6 @@ O projeto foi desenvolvido com as tecnologias abaixo: <br>
 
 * HTML
 * CSS
-* Javascript
 
 ---
 
