@@ -180,7 +180,7 @@ figcaption p:nth-child(2) {
 
 /* Responsividade */
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
   header {
     height: 2.4rem;
 
