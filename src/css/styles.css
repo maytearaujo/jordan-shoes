@@ -118,11 +118,11 @@ header {
 }
 
 .shoes {
-  /* border: solid red; */
 
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  padding-top: 2rem;
 }
 
 .one-shoes {
@@ -130,8 +130,6 @@ header {
 }
 
 .shoes figure {
-  /* border: solid red; */
-
   width: 24rem;
   height: 17rem;
 
@@ -139,6 +137,8 @@ header {
   flex-direction: column;
 
   text-align: center;
+  padding-bottom: 2rem;
+
 }
 
 .shoes figure img {
